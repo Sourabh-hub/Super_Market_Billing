@@ -281,7 +281,7 @@ void intro()
  gotoxy(35,17);
  cout<<"PROJECT";
  cout<<"\n\nMADE BY :";
- cout<<"\n\nMITS COLLEGE";
+ cout<<"\n\nSourabh Singh Rajpoot";
  getch();
 
 }
